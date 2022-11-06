@@ -1,5 +1,5 @@
-# P.I.-Works-Assignment
-This is an assignment for Junior Software Test Engineer position at P.I. Works.
+# Odd_Numbers_Assignment
+This is an assignment for Junior Software Test Engineer position.
 ## This assignment requires to find odd[^1] numbers;
 * In the range of 2 numbers
 * These 2 numbers given by user
